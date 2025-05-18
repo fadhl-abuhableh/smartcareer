@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartCareer</string>
+    <string name="title_Insights">Insights\n</string>
+    <string name="title_Milestones">Milestones</string>
+    <string name="title_Intrenship">Intrenship</string>
+    <string name="title_Home">Home</string>
+</resources>

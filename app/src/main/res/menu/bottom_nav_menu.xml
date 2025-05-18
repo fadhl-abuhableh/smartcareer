@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_Home" />
+    <item
+        android:id="@+id/menu_internships"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="@string/title_Intrenship" />
+
+    <item
+        android:id="@+id/menu_milestones"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_Milestones" />
+
+    <item
+        android:id="@+id/menu_insights"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/title_Insights" />
+
+</menu>
